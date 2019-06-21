@@ -1,0 +1,7 @@
+id=sonymediappmagisk
+name=Magisk Sony Media Apps
+version=v1.5b
+versionCode=1
+author=ronidianpatisa
+description=Systemless Sony Media Apps For AOSP 7.+ armv7
+minMagisk=1600
