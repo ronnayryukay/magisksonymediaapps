@@ -25,10 +25,7 @@ This is the module used to be able to use Sony Media Apps including the Cyberian
 3. Fixed Sony Album and Music Cannot Read External SDCard and Some Issues on [9] PIE
 4. Added Sony Video, Sound Recorder and Movie Creator
 
-# Developer: @ronidianpatisa
-Old version: 1.0
-Latest stable version: 1.4
-Lates beta version: 1.5b
+Developer: @ronidianpatisa
 Support: Android 7-9
 Recommended: Magisk version 16 or latest
 Tested on: Z3, Other you tested...
